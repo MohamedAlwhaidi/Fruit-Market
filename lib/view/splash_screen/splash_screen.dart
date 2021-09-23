@@ -1,4 +1,4 @@
-import 'package:e_commerce_fruit_market/shared/constants.dart';
+import 'package:e_commerce_fruit_market/constants.dart';
 import 'package:flutter/material.dart';
 
 import 'widgets/splash_screen_body.dart';
