@@ -1,4 +1,4 @@
-import 'package:e_commerce_fruit_market/view/on_boarding/on_boarding_screen.dart';
+import 'package:e_commerce_fruit_market/features/on_boarding/on_boarding_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -39,7 +39,7 @@ class _SplashScreenBodyState extends State<SplashScreenBody>
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
         Spacer(flex: 3),
-        // To make the text fading between to double values
+        // To make the text fading between two double values
         FadeTransition(
           opacity: fadingAnimation!,
           child: Text(

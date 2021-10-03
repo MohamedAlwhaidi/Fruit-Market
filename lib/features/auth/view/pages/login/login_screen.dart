@@ -1,6 +1,7 @@
-import 'package:e_commerce_fruit_market/constants.dart';
-import 'package:e_commerce_fruit_market/view/auth/login/widgets/login_body.dart';
+import 'package:e_commerce_fruit_market/shared/constants.dart';
 import 'package:flutter/material.dart';
+
+import 'widgets/login_body.dart';
 
 class LoginScreen extends StatelessWidget {
   const LoginScreen({Key? key}) : super(key: key);

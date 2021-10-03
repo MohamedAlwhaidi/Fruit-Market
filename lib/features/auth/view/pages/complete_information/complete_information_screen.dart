@@ -1,6 +1,7 @@
-import 'package:e_commerce_fruit_market/constants.dart';
-import 'package:e_commerce_fruit_market/view/auth/complete_information/widgets/complete_information_body.dart';
+import 'package:e_commerce_fruit_market/shared/constants.dart';
 import 'package:flutter/material.dart';
+
+import 'widgets/complete_information_body.dart';
 
 class CompleteInformationScreen extends StatelessWidget {
   const CompleteInformationScreen({Key? key}) : super(key: key);

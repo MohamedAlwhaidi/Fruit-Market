@@ -1,8 +1,8 @@
-import 'package:e_commerce_fruit_market/constants.dart';
+import 'package:e_commerce_fruit_market/features/auth/view/pages/complete_information/complete_information_screen.dart';
+import 'package:e_commerce_fruit_market/shared/constants.dart';
 import 'package:e_commerce_fruit_market/shared/utils/size_confing.dart';
 import 'package:e_commerce_fruit_market/shared/widgets/custom_buttons.dart';
 import 'package:e_commerce_fruit_market/shared/widgets/space_widget.dart';
-import 'package:e_commerce_fruit_market/view/auth/complete_information/complete_information_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:get/get.dart';

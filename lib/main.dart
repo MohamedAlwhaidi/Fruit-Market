@@ -1,9 +1,10 @@
-import 'package:e_commerce_fruit_market/constants.dart';
-import 'package:e_commerce_fruit_market/view/splash_screen/splash_screen.dart';
+import 'package:e_commerce_fruit_market/shared/constants.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
+
+import 'features/splash_screen/splash_screen.dart';
 
 void main() {
   runApp(MyApp());
